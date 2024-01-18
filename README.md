@@ -1,6 +1,6 @@
 231RDB164
 Projekta Nosaukums: Valūtu Konvertētājs
-Projekta Uzdevums
+Projekta Uzdevums:
 Draugs kuram interesē tirgot valūtas iedeva man ideju izveidot valūtas konvertētāju, kas ļauj lietotājam iegūt aktuālus valūtu kursus pret norādīto pamatvalūtu. Programma nodrošina iespēju sekot vairākām valūtām un vizualizēt to attiecības, palīdzot lietotājiem plānot un analizēt finansiālās darbības.
 
 Python Bibliotēkas un to Izmantošana
